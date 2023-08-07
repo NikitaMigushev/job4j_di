@@ -1,4 +1,4 @@
-package job4j.di;
+package ru.job4j.di;
 
 import java.util.Scanner;
 
